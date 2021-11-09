@@ -9,7 +9,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-          I started learning Software Development by using online learning platforms such as CodeCademy and TreeHouse. I later on also went a coding bootcamp called Hack Reactor
+      Hello, my name is shavkat shavkiev and I am a full-stack software engineer. I have experience working in all areas of the stack from the Front-End to the Back-End and Databases. I am passionate about programming and I strive to learn something new every day.
       </SectionText>
     </Section>
   );

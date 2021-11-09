@@ -10,7 +10,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have experience from the Front-End to the Back-End and everything in between. My favorite tools to use are React, Express, and MySQL
+      I have experience working on the Front-End, Back-End and everything in between. My favorite tools to use are React, Express, and MySQL
     </SectionText>
     <List>
       <ListItem>
