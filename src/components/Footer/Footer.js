@@ -34,10 +34,10 @@ const Footer = () => {
           <Slogan>Getting Better Every Day</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://Github.com">
+          <SocialIcons href="https://github.com/ShavkatShavkiev" target='_blank'>
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://LinkedIn.com">
+          <SocialIcons href="https://www.linkedin.com/in/shavkat-shavkiev/" target='_blank'>
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </SocialContainer>

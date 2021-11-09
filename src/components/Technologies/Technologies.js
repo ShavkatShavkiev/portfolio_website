@@ -10,7 +10,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      PlaceHolder
+      I have experience from the Front-End to the Back-End and everything in between. My favorite tools to use are React, Express, and MySQL
     </SectionText>
     <List>
       <ListItem>
@@ -18,7 +18,11 @@ const Technologies = () =>  (
         <ListTitle>Front-end</ListTitle>
         <ListParagraph>
           Experience With <br />
-          React
+          React <br />
+          React-Native <br />
+          JavaScript <br />
+          HTML <br />
+          CSS <br />
         </ListParagraph>
       </ListItem>
       <ListItem>
@@ -34,10 +38,14 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <AiOutlineCloudSync size='3rem' />
-        <ListTitle>Development Tools</ListTitle>
+        <ListTitle>Development Tools & Testing</ListTitle>
         <ListParagraph>
           Experience With <br />
-          AWS
+          AWS <br />
+          Nginx <br />
+          Jest <br />
+          Chai <br />
+          Mocha <br />
         </ListParagraph>
       </ListItem>
     </List>

@@ -9,12 +9,12 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
             Welcome To <br />
-            My personal Portfolio
+            Shavkats Portfolio
         </SectionTitle>
         <SectionText>
-          Place Holder
+          The purpose of this website is to showcase my projects and skills
         </SectionText>
-        <Button onClick={() => window.location = 'https://google.com'}>More About Me</Button>
+        <Button onClick={() => window.location = 'https://www.linkedin.com/in/shavkat-shavkiev/'}>More About Me</Button>
       </LeftSection>
   </Section>
 );
